@@ -13,6 +13,8 @@ Here, you'll find a collection of abandoned projects, prototypes, and experiment
 - **Project 1:** [Health Insurance Billing Service](https://github.com/dmmoody-graveyard)
 - **Project 2:** [Single Source Billing](https://github.com/dmmoody-graveyard)
 - **Project 3:** [Health Claim Adjudication Service](https://github.com/dmmoody-graveyard)
+- **Project 4:** [Microfarming Management Platform](https://github.com/dmmoody-graveyard)
+- **Project 5:** [Agritech Supply Chain Application](https://github.com/dmmoody-graveyard)
 - ...
 
 ## 💀 In Memoriam
